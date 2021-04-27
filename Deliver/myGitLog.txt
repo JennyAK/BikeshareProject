@@ -1,0 +1,10 @@
+cc9ddc3a1a6ba341b640c82d7c1edd27b1ad6e15 Final commit
+a4df6036a47b798595deb29b259b8334e2b5bfc8 DNN Model
+140691d70c967439bb89c6dcf66563f03ae9935e Linear Regression on both Daily and Hourly data sets
+956140cf2e002d6a58a05c620ad3e2480768abe9 Linear Regression on Daily Data
+18424661d14f84efff8b1ae34f317733ef591061 add to README test
+1f075eb25477bb41f1ec7c58e8d1dcecaf3def2c test
+02b40dff41c43778f70fe45797e092d8733f278e first commit
+3b6a757ccdff601664bbd02d3ae63f1addf4ca5c second
+d85928d94fc7a27dd8e6f279da517eb2ba90e1ff fisrt commit
+a24554965fc4dd710fb97ac745c119bccddbdc04 Minor changes
